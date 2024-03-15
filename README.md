@@ -52,5 +52,8 @@ Use Case:
 
 These questions are framed to address key aspects of customer analytics and can guide strategic decision-making to enhance customer relationships and drive business growth.
 <br>
+
+
+
 some of the data set are of more than 25 mb size. so, to get access contact on shuvendupritamdas@gmail.com
 or you can check on Kaggle ---https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data
